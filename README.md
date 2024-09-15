@@ -61,5 +61,3 @@ F1 score = 2 * Precision * Recall / (Precision + Recall)<br>
 where:<br>
 Precision = True Positives / (True Positives + False Positives)<br>
 Recall = True Positives / (True Positives + False Negatives)<br>
-Submission File:<br>
-Upload a test_out.csv file in the portal with the exact same formatting as sample_test_out.csv.<br>
