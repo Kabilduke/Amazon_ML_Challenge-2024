@@ -1,4 +1,4 @@
-# Amazon_ML_Challenge-2024
+# Amazon_ML_Challenge-24
 
 ## Problem Statement:<br>
 
